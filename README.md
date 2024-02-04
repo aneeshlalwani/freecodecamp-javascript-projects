@@ -1,7 +1,12 @@
 # FreeCodeCamp JavaScript Projects
 
-### Here is the Live link for todo App
+## Here are the live links for all projects
+
+### Todo App:
 [https://65a90701c9e9896f48e7a2e0--snazzy-belekoy-75b547.netlify.app/]
 
-### Here is the Live Link for Date Formatter 
+### Date Formatter: 
 [https://boisterous-speculoos-b2e6e7.netlify.app/]
+
+### Decimal to Binary Converter
+[https://65ae863ec064730f82e17016--silly-donut-e5ebaa.netlify.app/]
