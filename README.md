@@ -10,3 +10,6 @@
 
 ### Decimal to Binary Converter
 [https://65ae863ec064730f82e17016--silly-donut-e5ebaa.netlify.app/]
+
+### Number Sorter
+[https://65bf574fccf32039e9db2f57--guileless-muffin-2e7e9b.netlify.app/]
